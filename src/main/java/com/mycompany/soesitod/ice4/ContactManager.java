@@ -11,7 +11,6 @@ package com.mycompany.soesitod.ice4;
 public class ContactManager {
     private Contact[] contactList;
 
-//    random comment
     public ContactManager(Contact[] contactList) {
         this.contactList = contactList;
     };
