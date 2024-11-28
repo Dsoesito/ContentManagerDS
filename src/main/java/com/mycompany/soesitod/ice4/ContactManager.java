@@ -15,7 +15,9 @@ public class ContactManager {
         this.contactList = contactList;
     };
 
-    // Comment to add blah   
+    // Comment to add blah
+
+	// Comment made in github
     
     /*
 	Locate a Contact record that matches the email address provided.
