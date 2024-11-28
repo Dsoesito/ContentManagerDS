@@ -17,7 +17,9 @@ public class ContactManager {
 
     // Comment to add blah
 
-	// Comment made in github
+    // Comment made in github
+    
+    // Friend branch commit   
     
     /*
 	Locate a Contact record that matches the email address provided.
