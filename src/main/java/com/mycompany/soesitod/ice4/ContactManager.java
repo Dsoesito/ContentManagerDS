@@ -15,6 +15,8 @@ public class ContactManager {
         this.contactList = contactList;
     };
 
+    // Comment to add blah   
+    
     /*
 	Locate a Contact record that matches the email address provided.
 	Returns the Contact record if found, null if not found.
